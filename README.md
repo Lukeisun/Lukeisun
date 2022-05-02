@@ -1,9 +1,7 @@
-
-★ 𝒜𝒹𝒾𝓃 𝐿𝓊𝓀𝒶𝓈 ★
-
-
-
-=== ඞ ===
+<div style='text-algin:center'>
+  <p>★ 𝒜𝒹𝒾𝓃 𝐿𝓊𝓀𝒶𝓈 ★ </p>
+  <p>===== ඞ =====</p>
+</div>
 <!--
 **Lukeisun/Lukeisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
