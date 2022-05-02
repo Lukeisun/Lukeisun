@@ -8,30 +8,30 @@
  -------<br>
         \<br>
         &ensp;\<br>
-&emsp;           .ﾊ,,ﾊ<br>
+&emsp;           .ﾊ , ,ﾊ<br>
 &emsp;           ( ﾟωﾟ)<br>
-&emsp;           |つ  つ<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;           |  &emsp;  |<br>
-&emsp;          U "  U<br>
+&emsp;           |つ&emsp;つ<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;           |  &emsp;&emsp; |<br>
+&emsp;          U   "  U<br>
      [BoingBoing]
 
   </p>
