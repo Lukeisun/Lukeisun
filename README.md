@@ -1,8 +1,40 @@
 <div align='center'>
   <p>★ 𝒜𝒹𝒾𝓃 𝐿𝓊𝓀𝒶𝓈 ★ </p>
   <br>
-  <p>===== 🦧 =====</p>
 </div>
+    <p>
+ _______<br>
+< 🦧 ><br>
+ -------<br>
+        \<br>
+        &ensp;\<br>
+&emsp;           .ﾊ,,ﾊ<br>
+&emsp;           ( ﾟωﾟ)<br>
+&emsp;           |つ  つ<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;           |  &emsp;  |<br>
+&emsp;          U "  U<br>
+     [BoingBoing]
+
+  </p>
 <!--
 **Lukeisun/Lukeisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
