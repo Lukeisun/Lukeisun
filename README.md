@@ -1,5 +1,6 @@
-<div style='text-algin:center'>
+<div align='center'>
   <p>★ 𝒜𝒹𝒾𝓃 𝐿𝓊𝓀𝒶𝓈 ★ </p>
+  <br>
   <p>===== ඞ =====</p>
 </div>
 <!--
