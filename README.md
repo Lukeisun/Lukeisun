@@ -5,35 +5,6 @@
 < 🦧★ 𝒜𝒹𝒾𝓃 𝐿𝓊𝓀𝒶𝓈 ★🦧 ><br>
  --------------------------<br>
         \<br>
-        &ensp;\<br>
-&emsp;           .ﾊ , ,ﾊ<br>
-&emsp;           ( ﾟωﾟ)<br>
-&emsp;           |つ&emsp;つ<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;           |  &emsp;&emsp; |<br>
-&emsp;          U   "  U<br>
-     [BoingBoing]
-
-  </p>
-</div>
 
 <!--
 **Lukeisun/Lukeisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
